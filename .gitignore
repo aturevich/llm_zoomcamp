@@ -3,3 +3,4 @@
 /__pycache__
 /documents.json.1
 /minsearch.py.1
+.env
